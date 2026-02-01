@@ -2,6 +2,7 @@
 
 A simple Spring Boot 3.3.5 project with:
 
+- Uses [JokeAPI](https://v2.jokeapi.dev) to fetch random jokes
 - Custom `ApiResponse` wrapper for uniform JSON responses
 - `ResponseBodyAdvice` to auto-wrap responses
 - Swagger UI documentation (SpringDoc OpenAPI)
