@@ -10,8 +10,10 @@ A simple Spring Boot 3.3.5 project with:
 
 ---
 
-## Swagger Documentation 
-- http://localhost:8080/swagger-ui/index.html
+## Swagger Documentation
 
-### The OpenAPI JSON spec is available at:
-- http://localhost:8080/v3/api-docs
+- <http://localhost:8080/swagger-ui/index.html>
+
+### The OpenAPI JSON spec is available at
+
+- <http://localhost:8080/v3/api-docs>
